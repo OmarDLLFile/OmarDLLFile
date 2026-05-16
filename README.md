@@ -1,113 +1,119 @@
-<h1 align="center">Hi, I'm Omar 👋</h1>
+<h1 align="center">Omar | Cyber Security & Computer Science Student</h1>
 
 <p align="center">
-Cyber Security Student | Backend Developer | Problem Solver
-</p>
-
-<p align="center">
-  <a href="https://github.com/OmarDLLFile">
-    <img src="https://img.shields.io/github/followers/OmarDLLFile?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/OmarDLLFile">
-    <img src="https://img.shields.io/github/stars/OmarDLLFile?affiliations=OWNER&style=for-the-badge" />
-  </a>
+Security Researcher | Backend Developer | Problem Solver | Builder of Security Tools
 </p>
 
 ---
 
 ## About Me
 
-- Computer Science & Cyber Security student
-- Interested in:
+- Computer Science student focused on real-world systems
+- Specialized interest in Cyber Security (Web & Network Security)
+- Working across:
   - Web Penetration Testing
-  - Digital Forensics
+  - Digital Forensics & Incident Analysis
+  - Network Security & Packet Analysis
   - Backend Development
-  - Network Security
-  - Malware Analysis
-  - Threat Detection Systems
-- Competitive Programmer using C++
-- Building real-world security and monitoring tools using Python
+  - AI for Security (Anomaly Detection)
+  - Embedded & IoT Security Systems
+- Competitive Programmer (C++ / ECPC problem solving mindset)
 
 ---
 
-## Technologies & Tools
+## Core Focus Areas
 
-### Programming Languages
+### Cyber Security
+- Web Application Security (OWASP Top 10)
+- Network Traffic Analysis
+- Packet Sniffing & Threat Detection
+- Privilege Escalation Basics
+- Security Automation Tools
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
-</p>
+### Software & Backend Engineering
+- REST APIs
+- Node.js / Python Backend Systems
+- Database Design (SQL / NoSQL)
+- System Architecture Basics
 
-### Cyber Security & Networking
+### Data & AI (Security Applications)
+- Anomaly Detection (Isolation Forest)
+- Data-driven threat analysis
+- Log analysis & behavioral detection
 
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square"/>
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-</p>
+### Embedded Systems & IoT
+- Arduino-based security systems
+- Sensor integration (Ultrasonic, LDR, etc.)
+- Smart monitoring devices
 
 ---
 
-## Featured Projects
+## Technologies I Use
+
+```text
+Languages:
+C | C++ | Python | JavaScript | Bash | PHP
+
+Security Tools:
+Kali Linux | Wireshark | Nmap | Burp Suite | Metasploit
+
+Backend:
+Node.js | Express.js
+
+Databases:
+MySQL | MongoDB
+
+Other:
+Git | Linux | VS Code | Packet Tracer | Arduino
+````
+
+---
+
+## Projects
 
 ### Packet Sniffer & Threat Detection System
-A Python-based network monitoring tool using Scapy and Tkinter.
 
-Features:
-- Packet sniffing
-- Protocol analysis
-- Threat detection
-- Anomaly detection
-- Real-time dashboard
-- Suspicious packet identification
+* Network packet capture using Scapy
+* Protocol inspection and analysis
+* Detection of suspicious traffic patterns
+* Dashboard visualization of threats
+* Experimental anomaly detection integration
 
 ---
 
-### Bash Health Monitoring Tool
-Linux system monitoring tool written in Bash.
+### Bash System Monitoring Tool
 
-Features:
-- CPU usage monitoring
-- RAM monitoring
-- Disk usage analysis
-- Process tracking
-- Log generation
+* CPU / RAM / Disk monitoring
+* Process tracking
+* Log generation for system health
+* Lightweight Linux utility
 
 ---
 
 ### Smart Cane for Visually Impaired
-An embedded systems project designed to help visually impaired people navigate safely.
 
-Technologies:
-- Arduino
-- Ultrasonic Sensors
-- Embedded Programming
+* Embedded IoT assistive system
+* Ultrasonic distance detection
+* Real-time obstacle alerts
+
+---
+
+### Smart IoT Security Projects (In Progress)
+
+* Home automation security monitoring
+* Sensor-based alert systems
+* Future integration with AI detection models
+
+---
+
+## Competitive Programming
+
+* ECPC participant
+* Focus on:
+
+  * Algorithms
+  * Data Structures
+  * Problem solving under constraints
 
 ---
 
@@ -123,29 +129,9 @@ Technologies:
 
 ---
 
-## Competitive Programming
+## Philosophy
 
-- ECPC Contestant
-- Solving problems using C++
-- Interested in algorithms and data structures
+Security is not a toolset.
+It is understanding how systems fail before they fail.
 
----
-
-## Connect With Me
-
-<p>
-  <a href="https://github.com/OmarDLLFile">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  Building tools, breaking systems, fixing them again.  
-  Humanity keeps creating vulnerabilities faster than patches.
-</p>
+I build systems, break them, then rebuild them better.
