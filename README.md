@@ -1,123 +1,102 @@
-<h1 align="center">Omar | Cyber Security & Computer Science Student</h1>
+<h1 align="center">Omar | Cyber Security Engineer in Progress</h1>
 
 <p align="center">
-Security Researcher | Backend Developer | Problem Solver | Builder of Security Tools
+I build systems. I break them. I learn what broke.
+</p>
+
+<p align="center">
+Cyber Security • Backend • Problem Solving • Embedded Systems • AI for Security
 </p>
 
 ---
 
-## About Me
-
-- Computer Science student focused on real-world systems
-- Specialized interest in Cyber Security (Web & Network Security)
-- Working across:
-  - Web Penetration Testing
-  - Digital Forensics & Incident Analysis
-  - Network Security & Packet Analysis
-  - Backend Development
-  - AI for Security (Anomaly Detection)
-  - Embedded & IoT Security Systems
-- Competitive Programmer (C++ / ECPC problem solving mindset)
-
----
-
-## Core Focus Areas
-
-### Cyber Security
-- Web Application Security (OWASP Top 10)
-- Network Traffic Analysis
-- Packet Sniffing & Threat Detection
-- Privilege Escalation Basics
-- Security Automation Tools
-
-### Software & Backend Engineering
-- REST APIs
-- Node.js / Python Backend Systems
-- Database Design (SQL / NoSQL)
-- System Architecture Basics
-
-### Data & AI (Security Applications)
-- Anomaly Detection (Isolation Forest)
-- Data-driven threat analysis
-- Log analysis & behavioral detection
-
-### Embedded Systems & IoT
-- Arduino-based security systems
-- Sensor integration (Ultrasonic, LDR, etc.)
-- Smart monitoring devices
-
----
-
-## Technologies I Use
+## 🧠 Identity Layer
 
 ```text
-Languages:
-C | C++ | Python | JavaScript | Bash | PHP
-
-Security Tools:
-Kali Linux | Wireshark | Nmap | Burp Suite | Metasploit
-
-Backend:
-Node.js | Express.js
-
-Databases:
-MySQL | MongoDB
-
-Other:
-Git | Linux | VS Code | Packet Tracer | Arduino
+Name: Omar
+Status: Student / Security Researcher
+Specialization: Cyber Security + System Design Thinking
+Mission: Understand how systems fail in the real world
 ````
 
 ---
 
-## Projects
+## ⚙️ What I Work On
 
-### Packet Sniffer & Threat Detection System
-
-* Network packet capture using Scapy
-* Protocol inspection and analysis
-* Detection of suspicious traffic patterns
-* Dashboard visualization of threats
-* Experimental anomaly detection integration
-
----
-
-### Bash System Monitoring Tool
-
-* CPU / RAM / Disk monitoring
-* Process tracking
-* Log generation for system health
-* Lightweight Linux utility
+* Web Application Security (OWASP mindset)
+* Network Traffic Analysis & Packet Inspection
+* Threat Detection Systems (rule-based + anomaly-based)
+* Backend APIs & System Design
+* Embedded IoT security prototypes
+* Competitive Programming (C++ / algorithms)
 
 ---
 
-### Smart Cane for Visually Impaired
+## 🧪 Current Projects
 
-* Embedded IoT assistive system
-* Ultrasonic distance detection
-* Real-time obstacle alerts
+### Packet Sniffer → EDR Prototype
 
----
+* Captures and analyzes network packets
+* Detects suspicious patterns
+* Moving toward automated response (blocking / alerting)
 
-### Smart IoT Security Projects (In Progress)
+### System Monitoring Tool (Bash)
 
-* Home automation security monitoring
-* Sensor-based alert systems
-* Future integration with AI detection models
+* Linux health monitoring
+* Resource tracking
+* Lightweight observability tool
 
----
+### Smart IoT Security Systems
 
-## Competitive Programming
-
-* ECPC participant
-* Focus on:
-
-  * Algorithms
-  * Data Structures
-  * Problem solving under constraints
+* Sensor-based detection systems
+* Embedded safety + automation layer
 
 ---
 
-## GitHub Stats
+## ⚠️ Weak Points / CONS (yes, I track them)
+
+```text
+- Still strengthening advanced low-level exploitation skills
+- Limited exposure to real enterprise security environments
+- Not yet working in production-scale SOC systems
+- Sometimes over-focuses on building tools instead of mastering fundamentals deeply
+- Explaining complex security concepts clearly still in progress
+```
+
+---
+
+## 🔍 How I Think
+
+```text
+System = Input → Processing → Failure points → Attack surface
+
+If I cannot break it, I do not understand it.
+If I cannot explain it, I do not own it.
+```
+
+---
+
+## 🧩 Skill Stack (realistic view)
+
+### Languages
+
+C | C++ | Python | JavaScript | Bash
+
+### Security
+
+Wireshark | Nmap | Burp Suite | Kali Linux | Basic Reverse Thinking
+
+### Backend
+
+Node.js | Express | REST APIs | MongoDB / MySQL
+
+### Embedded
+
+Arduino | Sensors | IoT prototyping
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarDLLFile&show_icons=true&theme=tokyonight" />
@@ -129,9 +108,22 @@ Git | Linux | VS Code | Packet Tracer | Arduino
 
 ---
 
-## Philosophy
+## 🧭 Interactive Section
 
-Security is not a toolset.
-It is understanding how systems fail before they fail.
+### Pick a path:
 
-I build systems, break them, then rebuild them better.
+* 🕵️ Security Research → Packet analysis & exploitation mindset
+* 🧱 System Builder → Backend + tools + automation
+* 🧠 Algorithm Thinker → Problem solving & ECPC training
+* ⚙️ Embedded Engineer → IoT & hardware systems
+
+(Current mode: Hybrid - not optimized, still evolving)
+
+---
+
+## 📌 Philosophy
+
+Systems don’t fail randomly.
+They fail because someone assumed they wouldn’t.
+
+My job is to question that assumption.
